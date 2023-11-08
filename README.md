@@ -1,5 +1,7 @@
 # Interactive-Population-Map
 
+Made in Nov-Dec 2022
+
 This project is both a fun indie game and a data visualization of cities around the world. It simulates the typical geography quizzes you can find online, where you have to name the cities you know and they will show up marked on the map.
 
 The program uses a dataset found online which is in a csv format, that has information on the top 5000 most populous cities of the world, or capitals if they don’t fit this criteria, and their coordinates and population. The java program then builds up its own data using object oriented programming by parsing the information on the csv file. 
